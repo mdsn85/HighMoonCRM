@@ -1,0 +1,2 @@
+C:\Users\mdsn8\source\repos\WebApplication8\WebApplication8\obj\Debug\WebApplication8.csprojAssemblyReference.cache
+C:\Users\mdsn8\source\repos\WebApplication8\WebApplication8\obj\Debug\WebApplication8.csproj.CoreCompileInputs.cache
